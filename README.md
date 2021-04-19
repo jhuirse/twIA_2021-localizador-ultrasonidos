@@ -5,7 +5,7 @@ Un aparato que mediante sensores y algoritmos detectará su posicion en una habi
 ## Integrantes del equipo
 <strong>Nombre            -            Usuario</strong>
 <br />Antonio García Montes - antoniogmontes
-<br />Joaquín Gabriel Huirse - 
+<br />Joaquín Gabriel Huirse - jhuirse
 <br />Jorge Riveiro - j-riveiro
 <br />Sergio Rodriguez - Srsanz
 <br />Javier Gasco - j-gasco
